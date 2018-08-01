@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\michael\source\repos\codingchallenge\codingchallenge\main.cpp(131): warning C4715: 'isEvenProduct': not all control paths return a value
+  CodingChallenge.vcxproj -> C:\Users\Michael\source\repos\CodingChallenge\Debug\CodingChallenge.exe
